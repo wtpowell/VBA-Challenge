@@ -1,2 +1,2 @@
 # VBA-Challenge
-A homework inwhich I used VBA to organize and analyze Stock Market Data. 
+A homework assignment in which I used VBA to organize and analyze Stock Market Data. 
